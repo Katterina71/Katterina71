@@ -1,4 +1,4 @@
-- # Hello, I'm Kate 👋
+# Hello, I'm Kate 👋
 
 
 Welcome to my GitHub profile! I am a passionate web developer and digital marketer with a strong background in computer science and a love for solving complex problems. Here's a bit about me:
