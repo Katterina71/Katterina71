@@ -42,6 +42,8 @@ I focus on helping businesses thrive in the digital world. With a Master's degre
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Katterina71&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Katterina71&layout=compact&theme=radical)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Katterina71&theme=radical)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Katterina71&theme=radical&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🗂 Projects
 
