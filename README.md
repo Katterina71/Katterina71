@@ -21,11 +21,6 @@ I focus on helping businesses thrive in the digital world. With a Master's degre
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![WebFlow](https://img.shields.io/badge/WebFlow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
 
-## 🏫 Education
-
-- **ActivateWork powered by Per Scholas**, Denver, CO (02-06/2024)
-- **Master of Science in Computer Science & Computer Engineering**, Tula State University, Russia
-- **Bachelor of Science in Information Systems Science**, Tula State University, Russia
 
 ## 💼 Experience
 
